@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "concertId": "1",
+    "code": "TICKET-ROCK-001",
+    "price": 150,
+    "isActive": true,
+    "purchaseDate": "2024-06-01T12:30:00Z",
+    "additionalServices": [
+      "Backstage Pass",
+      "VIP Lounge"
+    ]
+  },
+  {
+    "id": "2",
+    "concertId": "2",
+    "code": "TICKET-ROCK-002",
+    "price": 200,
+    "isActive": true,
+    "purchaseDate": "2024-06-01T12:30:00Z",
+    "additionalServices": [
+      "Meet & Greet",
+      "Premium Seating"
+    ]
+  },
+  {
+    "id": "3",
+    "concertId": "3",
+    "code": "TICKET-ALT-003",
+    "price": 180,
+    "isActive": true,
+    "purchaseDate": "2024-06-01T12:30:00Z",
+    "additionalServices": [
+      "Exclusive Merchandise",
+      "Photo Op"
+    ]
+  },
+  {
+    "id": "5",
+    "concertId": "5",
+    "code": "TICKET-PUNK-005",
+    "price": 220,
+    "isActive": true,
+    "purchaseDate": "2024-06-01T12:30:00Z",
+    "additionalServices": [
+      "Front Row Seats",
+      "Commemorative T-Shirt"
+    ]
+  }
+]

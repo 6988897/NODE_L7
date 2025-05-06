@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Сольный концерт Ёлки",
+    "date": "2024-12-31T23:59:59Z",
+    "durationMinutes": 180,
+    "isPublic": true,
+    "artists": [
+      "Ёлка"
+    ],
+    "location": "Москва",
+    "ticketPriceRange": {
+      "min": 50,
+      "max": 300
+    },
+    "genres": [
+      "Поп"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Сольный концерт группы IOWA",
+    "date": "2024-12-31T23:59:59Z",
+    "durationMinutes": 180,
+    "isPublic": true,
+    "artists": [
+      "IOWA"
+    ],
+    "location": "Санкт-Петербург",
+    "ticketPriceRange": {
+      "min": 70,
+      "max": 350
+    },
+    "genres": [
+      "Рок"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Сольный концерт группы 'Мумий Тролль'",
+    "date": "2024-12-31T23:59:59Z",
+    "durationMinutes": 180,
+    "isPublic": true,
+    "artists": [
+      "Мумий Тролль"
+    ],
+    "location": "Екатеринбург",
+    "ticketPriceRange": {
+      "min": 60,
+      "max": 320
+    },
+    "genres": [
+      "Альтернативный рок"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Сольный концерт группы 'Король и Шут' (КиШ)",
+    "date": "2010-12-31T23:59:59Z",
+    "durationMinutes": 180,
+    "isPublic": true,
+    "artists": [
+      "Король и Шут"
+    ],
+    "location": "Новосибирск",
+    "ticketPriceRange": {
+      "min": 75,
+      "max": 370
+    },
+    "genres": [
+      "Панк"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Сольный концерт Мураками",
+    "date": "2024-12-31T23:59:59Z",
+    "durationMinutes": 180,
+    "isPublic": true,
+    "artists": [
+      "Мураками"
+    ],
+    "location": "Казань",
+    "ticketPriceRange": {
+      "min": 55,
+      "max": 280
+    },
+    "genres": [
+      "Хип-хоп"
+    ]
+  }
+]

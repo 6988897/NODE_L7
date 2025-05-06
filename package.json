@@ -1,0 +1,18 @@
+{
+    "name": "L7",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "body-parser": "^2.2.0",
+        "dotenv": "^16.5.0",
+        "express": "^4.21.2",
+        "nodemon": "^3.1.9",
+        "uuid": "^11.1.0"
+    }
+}
